@@ -11,6 +11,7 @@ void init() {
 void display(void) {
     float t;
 	glClear(GL_COLOR_BUFFER_BIT);
+	glPolygonMode (GL_FRONT_AND_BACK, GL_LINE);
     glBegin(GL_POLYGON);
     for (int i=0;i<360;i++)
     {
