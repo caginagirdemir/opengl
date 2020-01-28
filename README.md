@@ -8,7 +8,7 @@ opengl_lib_works
 
 **draw_desktop_clock.cpp** curves used to 2 circle angles
 
-<img src="http://yunus.hacettepe.edu.tr/~caginagirdemir/files/desk_clock.PNG" width="200" height="200" /> <img src="http://yunus.hacettepe.edu.tr/~caginagirdemir/files/desk_clock2.PNG" width="200" height="200" />
+<img src="http://yunus.hacettepe.edu.tr/~caginagirdemir/files/desk_clock.PNG" width="250" height="200" /> <img src="http://yunus.hacettepe.edu.tr/~caginagirdemir/files/desk_clock2.PNG" width="250" height="200" />
 
 **gram-schimdt.cpp** define 3 vectors in code, you can change vectors values on e variable. This calculator check on https://www.emathhelp.net/calculators/linear-algebra/gram-schmidt-calculator/ web site
 
