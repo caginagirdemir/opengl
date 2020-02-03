@@ -16,12 +16,12 @@ opengl_lib_works
 
 **triangle_plane_example.cpp** editing from example project, you can change shape mode GL_FILL and GL_LINE through 'w' key, and you can reverse shape through 'r' key and 'c' key
 
-<img src="http://yunus.hacettepe.edu.tr/~caginagirdemir/files/triangle_plane_example.PNG" width="250" height="200" /> 
+<img src="http://yunus.hacettepe.edu.tr/~caginagirdemir/files/triangle_plane_example.PNG" width="200" height="200" /> 
 
 **name_shape.cpp** you can change shape mode GL_FILL and GL_LINE through 'w' key
 
-<img src="http://yunus.hacettepe.edu.tr/~caginagirdemir/files/name_shape.PNG" width="250" height="200" /> <img src="http://yunus.hacettepe.edu.tr/~caginagirdemir/files/name_shape_2.PNG" width="250" height="200" /> 
+<img src="http://yunus.hacettepe.edu.tr/~caginagirdemir/files/name_shape.PNG" width="200" height="200" /> <img src="http://yunus.hacettepe.edu.tr/~caginagirdemir/files/name_shape_2.PNG" width="200" height="200" /> 
 
 **controlable_mechanical_arm.cpp** you have 3 turnable joints, have 6 keys for each joint for turn x,y,z axis, every key pairs make subtract and add 5 magnitude to axis. All joints bound to former joints. You can control first joint through z,x,c,v,b,n keys; for second joint a,s,d,f,g,h and last one q,w,e,r,t,y
 
-<img src="http://yunus.hacettepe.edu.tr/~caginagirdemir/files/mechanical_arm.PNG" width="250" height="200" /> <img src="http://yunus.hacettepe.edu.tr/~caginagirdemir/files/mechanical_arm2.PNG" width="250" height="200" /> <img src="http://yunus.hacettepe.edu.tr/~caginagirdemir/files/mechanical_arm3.PNG" width="250" height="200" /> 
+<img src="http://yunus.hacettepe.edu.tr/~caginagirdemir/files/mechanical_arm.PNG" width="200" height="200" /> <img src="http://yunus.hacettepe.edu.tr/~caginagirdemir/files/mechanical_arm2.PNG" width="200" height="200" /> <img src="http://yunus.hacettepe.edu.tr/~caginagirdemir/files/mechnacil_arm3.PNG" width="200" height="200" /> 
