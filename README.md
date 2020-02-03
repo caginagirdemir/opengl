@@ -14,7 +14,7 @@ opengl_lib_works
 
 <img src="http://yunus.hacettepe.edu.tr/~caginagirdemir/files/gram-schmid.PNG" width="400" height="200" /> 
 
-**triangle_plane_example.cpp** editing from example project, you can change shape mode GL_FILL and GL_LINE through 'w' key, and you can reverse shape through 'r' key and 'c' key
+**triangle_plane_example.cpp** edited from a example project, you can change shape mode GL_FILL and GL_LINE through 'w' key, and you can reverse shape through 'r' key and 'c' key
 
 <img src="http://yunus.hacettepe.edu.tr/~caginagirdemir/files/triangle_plane_example.PNG" width="200" height="200" /> 
 
