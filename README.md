@@ -4,7 +4,8 @@ opengl_lib_works
 
 Convex hull animation
 
-![Scheme](convex_hull.gif | width=48)
+<img src="convex_hull.gif" width="200" height="200" />
+
 
 Voronoi diagram
 
