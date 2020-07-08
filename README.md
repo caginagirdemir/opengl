@@ -6,14 +6,13 @@ Convex hull animation
 
 <img src="convex_hull.gif" width="640" height="480" />
 
-
 Voronoi diagram
 
-![Scheme](voronoi_diagram.gif)
+<img src="voronoi_diagram.gif" width="640" height="480" />
 
 2d Light scatter
 
-![Scheme](light_scatter.gif)
+<img src="light_scatter.gif" width="640" height="480" />
 
 **dept_buffer_test.cpp** There are 3 rectange and you can control x, y and z axis from x,y,z keys
 
