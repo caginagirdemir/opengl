@@ -2,6 +2,18 @@
 
 opengl_lib_works
 
+Convex hull animation
+
+![Scheme](convex_hull.gif)
+
+Voronoi diagram
+
+![Scheme](voronoi_diagram.gif)
+
+2d Light scatter
+
+![Scheme](light_scatter.gif)
+
 **dept_buffer_test.cpp** There are 3 rectange and you can control x, y and z axis from x,y,z keys
 
 <img src="http://yunus.hacettepe.edu.tr/~caginagirdemir/files/dept_buffer.PNG" width="200" height="200" />
