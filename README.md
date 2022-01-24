@@ -6,7 +6,7 @@ Convex hull animation
 
 <img src="convex_hull.gif" width="640" height="480" />
 
-Voronoi diagram
+Voronoi diagram (voronoi_diagram_solver.cpp)
 
 <img src="voronoi_diagram.gif" width="640" height="480" />
 
