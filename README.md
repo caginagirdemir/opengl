@@ -2,7 +2,7 @@
 
 opengl_lib_works
 
-Convex hull animation
+Convex hull animation (convex_hull_problem.cpp)
 
 <img src="convex_hull.gif" width="640" height="480" />
 
