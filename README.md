@@ -4,15 +4,15 @@ opengl_lib_works
 
 Convex hull animation (convex_hull_problem.cpp)
 
-<img src="convex_hull.gif" width="640" height="480" />
+<img src="img/convex_hull.gif" width="640" height="480" />
 
 Voronoi diagram (voronoi_diagram_solver.cpp)
 
-<img src="voronoi_diagram.gif" width="640" height="480" />
+<img src="img/voronoi_diagram.gif" width="640" height="480" />
 
 2d Ray Tracing (2d_ray_tracing.cpp)
 
-<img src="light_scatter.gif" width="640" height="480" />
+<img src="img/light_scatter.gif" width="640" height="480" />
 
 **dept_buffer_test.cpp** There are 3 rectange and you can control x, y and z axis from x,y,z keys
 
