@@ -10,7 +10,7 @@ Voronoi diagram (voronoi_diagram_solver.cpp)
 
 <img src="voronoi_diagram.gif" width="640" height="480" />
 
-2d Light scatter
+2d Ray Tracing (2d_ray_tracing.cpp)
 
 <img src="light_scatter.gif" width="640" height="480" />
 
