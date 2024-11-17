@@ -10,6 +10,8 @@ Convex hull animation (convex_hull_problem.cpp)
 
 Voronoi diagram (voronoi_diagram_solver.cpp)
 
+[Assignment Submission PDF](https://github.com/caginagirdemir/opengl/blob/master/pdf_files/voronoi_diagram.pdf)
+
 <img src="img/voronoi_diagram.gif" width="640" height="480" />
 
 2d Ray Tracing (2d_ray_tracing.cpp)
