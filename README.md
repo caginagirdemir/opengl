@@ -20,7 +20,7 @@ Voronoi diagram (voronoi_diagram_solver.cpp)
 
 <img src="img/light_scatter.gif" width="640" height="480" />
 
-**2d_light_simulation** [Assignment Submission PDF](https://github.com/caginagirdemir/opengl/blob/master/pdf_files/2d_illumination_calculator.pdf)
+**2d_illumination_calculator.cpp** [Assignment Submission PDF](https://github.com/caginagirdemir/opengl/blob/master/pdf_files/2d_illumination_calculator.pdf)
 
 **dept_buffer_test.cpp** [Assignment Submission PDF](https://github.com/caginagirdemir/opengl/blob/master/pdf_files/dept_buffer_test.pdf)
 
