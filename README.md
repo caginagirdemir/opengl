@@ -12,7 +12,9 @@ Voronoi diagram (voronoi_diagram_solver.cpp)
 
 2d Ray Tracing (2d_ray_tracing.cpp)
 
-<img src="img/light_scatter.gif" width="640" height="480" /> [Assignment Submitted PDF](https://github.com/caginagirdemir/opengl/blob/master/pdf_files/rapor_2d_ray_tracing.pdf)
+ [Assignment Submitted PDF](https://github.com/caginagirdemir/opengl/blob/master/pdf_files/rapor_2d_ray_tracing.pdf)
+
+<img src="img/light_scatter.gif" width="640" height="480" />
 
 **dept_buffer_test.cpp** There are 3 rectange and you can control x, y and z axis from x,y,z keys
 
