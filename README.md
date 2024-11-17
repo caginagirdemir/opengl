@@ -20,19 +20,19 @@ Voronoi diagram (voronoi_diagram_solver.cpp)
 
 <img src="img/light_scatter.gif" width="640" height="480" />
 
-**dept_buffer_test.cpp** There are 3 rectange and you can control x, y and z axis from x,y,z keys
+**dept_buffer_test.cpp** [Assignment Submission PDF](https://github.com/caginagirdemir/opengl/blob/master/pdf_files/dept_buffer_test.pdf)
 
-**draw_desktop_clock.cpp** curves used to 2 circle angles
+**draw_desktop_clock.cpp** [Assignment Submission PDF](https://github.com/caginagirdemir/opengl/blob/master/pdf_files/draw_desktop_clock.pdf)
 
 
 **gram-schimdt.cpp** define 3 vectors in code, you can change vectors values on e variable. This calculator check on https://www.emathhelp.net/calculators/linear-algebra/gram-schmidt-calculator/ web site
 
 
-**triangle_plane_example.cpp** edited from a example project. you can change shape mode GL_FILL and GL_LINE through 'w' key, and you can reverse shape through 'r' key and 'c' key
+**triangle_plane_example.cpp** [Assignment Submission PDF](https://github.com/caginagirdemir/opengl/blob/master/pdf_files/triangle_plane_example.pdf)
 
 
-**name_shape.cpp** you can change shape mode GL_FILL and GL_LINE through 'w' key
+**name_shape.cpp** [Assignment Submission PDF](https://github.com/caginagirdemir/opengl/blob/master/pdf_files/name_shape.pdf)
 
 
-**controlable_mechanical_arm.cpp** you have 3 turnable joints, have 6 keys for each joint for turn x,y,z axis, every key pairs make subtract and add 5 magnitude to axis. All joints bound to former joints. You can control first joint through z,x,c,v,b,n keys; for second joint a,s,d,f,g,h and last one q,w,e,r,t,y
+**controlable_mechanical_arm.cpp** [Assignment Submission PDF](https://github.com/caginagirdemir/opengl/blob/master/pdf_files/pixar.pdf)
 
