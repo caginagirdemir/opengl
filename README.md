@@ -20,6 +20,8 @@ Voronoi diagram (voronoi_diagram_solver.cpp)
 
 <img src="img/light_scatter.gif" width="640" height="480" />
 
+**2d_light_simulation** [Assignment Submission PDF](https://github.com/caginagirdemir/opengl/blob/master/pdf_files/2d_illumination_calculator.pdf)
+
 **dept_buffer_test.cpp** [Assignment Submission PDF](https://github.com/caginagirdemir/opengl/blob/master/pdf_files/dept_buffer_test.pdf)
 
 **draw_desktop_clock.cpp** [Assignment Submission PDF](https://github.com/caginagirdemir/opengl/blob/master/pdf_files/draw_desktop_clock.pdf)
@@ -37,4 +39,6 @@ Voronoi diagram (voronoi_diagram_solver.cpp)
 
 
 **controlable_mechanical_arm.cpp** [Assignment Submission PDF](https://github.com/caginagirdemir/opengl/blob/master/pdf_files/pixar.pdf)
+
+
 
