@@ -42,7 +42,7 @@ int i, k, swap = 0;
                 glVertex3f(i, mesh[k][i], k);
                 glColor3f(0, 0, 255);
                 glVertex3f(i, mesh[k+1][i], k+1);
-                if (i == 0) //ilk ücgen mi degil mi check
+                if (i == 0) //ilk Ã¼cgen mi degil mi check
                     glVertex3f(i, mesh[k+1][i], k+1); 
             }
         } else {
