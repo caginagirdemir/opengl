@@ -12,7 +12,7 @@ Voronoi diagram (voronoi_diagram_solver.cpp)
 
 2d Ray Tracing (2d_ray_tracing.cpp)
 
- [Assignment Submitted PDF](https://github.com/caginagirdemir/opengl/blob/master/pdf_files/rapor_2d_ray_tracing.pdf)
+ [Assignment Submission PDF](https://github.com/caginagirdemir/opengl/blob/master/pdf_files/rapor_2d_ray_tracing.pdf)
 
 <img src="img/light_scatter.gif" width="640" height="480" />
 
