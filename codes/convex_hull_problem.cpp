@@ -245,7 +245,7 @@ bool point_lock = 0;
 Point p0; 
 int k,elastic_strip_count=0;
 perpendicular_point_distance dist[10];
-line elastic_strip_lines[100]; //ilk lastik diktörtgen line tanimlamasi
+line elastic_strip_lines[100]; //ilk lastik diktÃ¶rtgen line tanimlamasi
 Point elastic_strip[100];
 float sortByAngle[240];
 int menuID;
@@ -703,7 +703,7 @@ void mainMenuHandler(int choice) {
 		vr_Y[q]=convex_hull_points[q].y;
 	}
 	pair<int, int> ans = find_Centroid(vr_X,vr_Y,k);
-	//glBegin(GL_LINES); //elastic_strip pointlerinin orta noktaya doðru routes.
+	//glBegin(GL_LINES); //elastic_strip pointlerinin orta noktaya doÃ°ru routes.
 	for(int i=0;i<t;i++)
 	{
 		//glVertex2f(elastic_strip[i].x,elastic_strip[i].y);
@@ -715,7 +715,7 @@ void mainMenuHandler(int choice) {
 	}
 	//glEnd();
 	
-//	glBegin(GL_LINES); //elastic_strip pointlerinin orta noktaya doðru routes.
+//	glBegin(GL_LINES); //elastic_strip pointlerinin orta noktaya doÃ°ru routes.
 //    for(int i=0;i<k;i++)
 //	{
 //		glVertex2f(convex_hull_lines[i].p1.x,convex_hull_lines[i].p1.y);
@@ -729,7 +729,7 @@ void mainMenuHandler(int choice) {
 	
 	//elastic_strip points ile linelineintersect points distance hesaplama
 	
-	//enkücük distanceli linelineintersect points ile elastic_strip points arasi route lines
+	//enkÃ¼cÃ¼k distanceli linelineintersect points ile elastic_strip points arasi route lines
 	
 float x1[100];
 float y1[100];
@@ -741,7 +741,7 @@ float stop_p_Y[100]= {0};
 	for(int j=0;j<t;j++)
 	{
 
-	//faha önceden polygon a takilmis point varsa durdur
+	//faha Ã¶nceden polygon a takilmis point varsa durdur
 
 	
 	float slope = (elastic_strip_lines[j].p2.y - elastic_strip_lines[j].p1.y) / (elastic_strip_lines[j].p2.x - elastic_strip_lines[j].p1.x); 
