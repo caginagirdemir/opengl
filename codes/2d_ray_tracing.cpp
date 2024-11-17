@@ -242,7 +242,7 @@ void display(void) {
 	}
 	
 
-	//q noktasi secildikten sonra ray line cizimi ve polygon_lines intersection kontorlü
+	//q noktasi secildikten sonra ray line cizimi ve polygon_lines intersection kontorlÃ¼
 	if(stage_2_flag)
 	{
 		point_x[counter] = point_x[0];
@@ -377,9 +377,9 @@ void display(void) {
         			intersection_Y = intersection.second;
         			line l1 = {{intersection_X+1,intersection_Y-1}, {intersection_X-1, intersection_Y+1}};
    					line l2 = {{polygon_lines[j].x1,polygon_lines[j].y1}, {polygon_lines[j].x2, polygon_lines[j].y2}};
-					if(isIntersect(l1, l2)) //kesisme noktasi o polygon_line üzerinde mi
+					if(isIntersect(l1, l2)) //kesisme noktasi o polygon_line Ã¼zerinde mi
 					{
-						if(intersection_X == ray_lines[i].x2 || intersection_Y == ray_lines[i].y2) //kesisme noktasi ray_line ucuna denk gelmemesi gerek bunun kontrolü
+						if(intersection_X == ray_lines[i].x2 || intersection_Y == ray_lines[i].y2) //kesisme noktasi ray_line ucuna denk gelmemesi gerek bunun kontrolÃ¼
       					{	
 
       					}
