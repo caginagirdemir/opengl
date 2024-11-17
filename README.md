@@ -4,6 +4,8 @@ opengl_lib_works
 
 Convex hull animation (convex_hull_problem.cpp)
 
+[Assignment Submission PDF](https://github.com/caginagirdemir/opengl/blob/master/pdf_files/report_convexhull.pdf)
+
 <img src="img/convex_hull.gif" width="640" height="480" />
 
 Voronoi diagram (voronoi_diagram_solver.cpp)
