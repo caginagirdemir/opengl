@@ -20,7 +20,7 @@ glBegin(GL_LINE_STRIP);
 void display(void) {
 
 	glClear(GL_COLOR_BUFFER_BIT);
-	DrawArc(320,240,70,0,2*PI); //P1 noktasýndan 70 birimlik tam cember (0->2*PI)
+	DrawArc(320,240,70,0,2*PI); //P1 noktasÃ½ndan 70 birimlik tam cember (0->2*PI)
 	DrawArc(320,240,80,0,PI); //P1 noktasindan 80 birimlik yarim cember (0->PI)
 	DrawArc(160,240,80,3*PI/2,2*PI); //P2 noktasindan 80 birimlik ceyrek cember (3*PI/2->2*PI)
 	DrawArc(480,240,80,PI,3*PI/2); //P3 noktasindan 80 birimlik ceyrek cember (PI->3*PI/2)
@@ -37,7 +37,7 @@ void display(void) {
 	float x1 = 320+  70 * cos(PI/1.5);
 	float y1 = 240+ 70 * sin(PI/1.5);
 	glVertex2f(x1, y1);
-	//ok çizdirme kýsmý
+	//ok Ã§izdirme kÃ½smÃ½
 	glVertex2f(x1, y1-10); 
 	glVertex2f(x1+10, y1-3);
 	glVertex2f(x1, y1);
