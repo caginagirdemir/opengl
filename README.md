@@ -30,6 +30,8 @@ Voronoi diagram (voronoi_diagram_solver.cpp)
 
 **triangle_plane_example.cpp** [Assignment Submission PDF](https://github.com/caginagirdemir/opengl/blob/master/pdf_files/triangle_plane_example.pdf)
 
+**Principal Component Analysis** [Assignment Submission PDF](https://github.com/caginagirdemir/opengl/blob/master/pdf_files/pca_assignment.pdf)
+
 
 **name_shape.cpp** [Assignment Submission PDF](https://github.com/caginagirdemir/opengl/blob/master/pdf_files/name_shape.pdf)
 
