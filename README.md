@@ -22,6 +22,8 @@ Voronoi diagram (voronoi_diagram_solver.cpp)
 
 **2d_illumination_calculator.cpp** [Assignment Submission PDF](https://github.com/caginagirdemir/opengl/blob/master/pdf_files/2d_illumination_calculator.pdf)
 
+<img src="img/2d_illumination_1.gif" width="640" height="480" />
+
 **dept_buffer_test.cpp** [Assignment Submission PDF](https://github.com/caginagirdemir/opengl/blob/master/pdf_files/dept_buffer_test.pdf)
 
 **draw_desktop_clock.cpp** [Assignment Submission PDF](https://github.com/caginagirdemir/opengl/blob/master/pdf_files/draw_desktop_clock.pdf)
